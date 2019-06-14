@@ -4,7 +4,6 @@ import (
 	"fmt"
 
 	"github.com/sethp-nr/icanhazdadjoke"
-	"net/http"
 )
 
 func main() {
